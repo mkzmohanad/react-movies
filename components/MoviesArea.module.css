@@ -1,0 +1,11 @@
+.allMovies {
+    /* margin-top: 400px; */
+    width: 100%;
+    padding: 15px;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+}

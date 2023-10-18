@@ -1,0 +1,16 @@
+.moviePosterDiv {
+    width: auto;
+    margin-right: 5px;
+}
+.moviePoster {
+    height: 100%;
+}
+.movieDetails {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding:15px;
+}
+.movieText {
+    font-size:1.1em
+}

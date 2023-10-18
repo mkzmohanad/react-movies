@@ -1,0 +1,24 @@
+.startPage {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+.link {
+    margin-top: 25px;
+    padding:8px 18px;
+    border-radius:8px;
+    font-size: 1.5em;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    transition:0.4s;
+    text-decoration: none;
+}
+.link:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,10 @@
+.favorite {
+    font-weight: bold;
+    font-size:1.3em;
+    /* text-decoration: underline; */
+    font-style: italic;
+    letter-spacing: 1px;
+    cursor: pointer;
+    color: white;
+    text-decoration:none;
+}
